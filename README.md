@@ -46,24 +46,12 @@
 
 ---
 
-<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=atsanna&show_icons=true&hide_border=true)](https://github-readme-stats.vercel.app/api?username=atsanna&show_icons=true&hide_border=true)
 
-  <img align="left" alt="atsanna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=atsanna&show_icons=true&hide_border=true" />
-
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atsanna)](https://github-readme-stats.vercel.app/api/top-langs/?username=atsanna)
 
 ---
 
 ### Thanksgiving
 
-Thanks to [codeSTACKr](https://www.youtube.com/watch?v=ECuqb5Tv9qI&t=36s) for making a video explaining how to build this page
+Thanks to [codeSTACKr](https://www.youtube.com/watch?v=ECuqb5Tv9qI) for making a video explaining how to build this page
