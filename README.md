@@ -46,6 +46,13 @@
 
 ---
 
+### Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=atsanna&show_icons=true&hide_border=true)](https://github-readme-stats.vercel.app/api?username=atsanna&show_icons=true&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atsanna)](https://github-readme-stats.vercel.app/api/top-langs/?username=atsanna)
