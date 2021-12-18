@@ -17,7 +17,6 @@
 
 - 2022 Objectives: 
     - Contribute more to Open Source projects
-    - launch a site on php programming with [CodeIgniter 4](https://codeigniter.com/)!
 
 
 ### Connect with me:
