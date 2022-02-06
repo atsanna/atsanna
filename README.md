@@ -48,11 +48,11 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/lonnieezell/Bonfire2/issues/43) in [lonnieezell/Bonfire2](https://github.com/lonnieezell/Bonfire2)
-2. 🗣 Commented on [#43](https://github.com/lonnieezell/Bonfire2/issues/43) in [lonnieezell/Bonfire2](https://github.com/lonnieezell/Bonfire2)
-3. 🗣 Commented on [#43](https://github.com/lonnieezell/Bonfire2/issues/43) in [lonnieezell/Bonfire2](https://github.com/lonnieezell/Bonfire2)
-4. 💪 Opened PR [#43](https://github.com/lonnieezell/Bonfire2/pull/43) in [lonnieezell/Bonfire2](https://github.com/lonnieezell/Bonfire2)
-5. 🗣 Commented on [#39](https://github.com/lonnieezell/Bonfire2/issues/39) in [lonnieezell/Bonfire2](https://github.com/lonnieezell/Bonfire2)
+1. ❌ Closed PR [#7](https://github.com/atsanna/Bonfire2/pull/7) in [atsanna/Bonfire2](https://github.com/atsanna/Bonfire2)
+2. ❌ Closed PR [#8](https://github.com/atsanna/Bonfire2/pull/8) in [atsanna/Bonfire2](https://github.com/atsanna/Bonfire2)
+3. ❌ Closed PR [#12](https://github.com/atsanna/Bonfire2/pull/12) in [atsanna/Bonfire2](https://github.com/atsanna/Bonfire2)
+4. 🗣 Commented on [#43](https://github.com/lonnieezell/Bonfire2/issues/43) in [lonnieezell/Bonfire2](https://github.com/lonnieezell/Bonfire2)
+5. 🗣 Commented on [#43](https://github.com/lonnieezell/Bonfire2/issues/43) in [lonnieezell/Bonfire2](https://github.com/lonnieezell/Bonfire2)
 <!--END_SECTION:activity-->
 
 ---
