@@ -21,10 +21,10 @@
 
 ### Connect with me:
 
-[<img style="filter: invert(1);" align="left" alt="Codeigniter4.it | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://codeigniter4.it)
-[<img style="filter: invert(1);" align="left" alt="Antonio Sanna | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sannaantonio/)
-[<img style="filter: invert(1);" align="left" alt="Antonio Sanna | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/atsannaantonio/)
-[<img style="filter: invert(1);" align="left" alt="Antonio Sanna | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/geom.antonio.sanna/)
+[<img style="fill: #fff;" align="left" alt="Codeigniter4.it | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://codeigniter4.it)
+[<img style="fill: #fff;" align="left" alt="Antonio Sanna | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sannaantonio/)
+[<img style="fill: #fff;" align="left" alt="Antonio Sanna | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/atsannaantonio/)
+[<img style="fill: #fff;" align="left" alt="Antonio Sanna | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/geom.antonio.sanna/)
 
 <br />
 
