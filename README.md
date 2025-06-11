@@ -48,9 +48,9 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#21](https://github.com/dirtsimple/poste.io/issues/21) in [dirtsimple/poste.io](https://github.com/dirtsimple/poste.io)
-2. ❌ Closed PR [#7](https://github.com/atsanna/Bonfire2/pull/7) in [atsanna/Bonfire2](https://github.com/atsanna/Bonfire2)
-3. ❌ Closed PR [#8](https://github.com/atsanna/Bonfire2/pull/8) in [atsanna/Bonfire2](https://github.com/atsanna/Bonfire2)
+1. 🚀 Published release [QGIS Relation Manager Plugin 1.0](https://github.com/atsanna/qgis-relation-manager/releases/tag/1.0.0) in [atsanna/qgis-relation-manager](https://github.com/atsanna/qgis-relation-manager)
+2. 🚀 Published release [QGIS Relation Manager Plugin 1.0](https://github.com/atsanna/qgis-relation-manager/releases/tag/1.0.0) in [atsanna/qgis-relation-manager](https://github.com/atsanna/qgis-relation-manager)
+3. 🚀 Published release [1.0.0](https://github.com/atsanna/qgis-relation-manager/releases/tag/1.0.0) in [atsanna/qgis-relation-manager](https://github.com/atsanna/qgis-relation-manager)
 4. ❌ Closed PR [#12](https://github.com/atsanna/Bonfire2/pull/12) in [atsanna/Bonfire2](https://github.com/atsanna/Bonfire2)
 5. 🗣 Commented on [#43](https://github.com/lonnieezell/Bonfire2/issues/43) in [lonnieezell/Bonfire2](https://github.com/lonnieezell/Bonfire2)
 <!--END_SECTION:activity-->
