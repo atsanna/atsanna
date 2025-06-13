@@ -50,9 +50,9 @@
 <!--START_SECTION:activity-->
 1. 🚀 Published release [QGIS Relation Manager Plugin 1.0](https://github.com/atsanna/qgis-relation-manager/releases/tag/1.0.0) in [atsanna/qgis-relation-manager](https://github.com/atsanna/qgis-relation-manager)
 2. 🚀 Published release [QGIS Relation Manager Plugin 1.0](https://github.com/atsanna/qgis-relation-manager/releases/tag/1.0.0) in [atsanna/qgis-relation-manager](https://github.com/atsanna/qgis-relation-manager)
-3. 🚀 Published release [1.0.0](https://github.com/atsanna/qgis-relation-manager/releases/tag/1.0.0) in [atsanna/qgis-relation-manager](https://github.com/atsanna/qgis-relation-manager)
-4. ❌ Closed PR [#12](https://github.com/atsanna/Bonfire2/pull/12) in [atsanna/Bonfire2](https://github.com/atsanna/Bonfire2)
-5. 🗣 Commented on [#43](https://github.com/lonnieezell/Bonfire2/issues/43) in [lonnieezell/Bonfire2](https://github.com/lonnieezell/Bonfire2)
+3. 🚀 Published release [QGIS Relation Manager Plugin 1.0](https://github.com/atsanna/qgis-relation-manager/releases/tag/1.0.0) in [atsanna/qgis-relation-manager](https://github.com/atsanna/qgis-relation-manager)
+4. 🚀 Published release [QGIS Relation Manager Plugin 1.0](https://github.com/atsanna/qgis-relation-manager/releases/tag/1.0.0) in [atsanna/qgis-relation-manager](https://github.com/atsanna/qgis-relation-manager)
+5. 🚀 Published release [1.0.0](https://github.com/atsanna/qgis-relation-manager/releases/tag/1.0.0) in [atsanna/qgis-relation-manager](https://github.com/atsanna/qgis-relation-manager)
 <!--END_SECTION:activity-->
 
 ---
