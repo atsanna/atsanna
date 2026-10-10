@@ -1,51 +1,55 @@
- ### Hi there, I'm Antonio - aka [atsanna](https://antoniosanna.dev) 👋 
+### Hi, I'm Antonio 👋
 
- [![Website](https://img.shields.io/website?label=antoniosanna.dev&style=for-the-badge&url=https%3A%2F%2Fantoniosanna.dev)](https://antoniosanna.dev/)
+[![Website](https://img.shields.io/website?label=antoniosanna.dev&style=for-the-badge&url=https%3A%2F%2Fantoniosanna.dev)](https://antoniosanna.dev/)
 
+Husband, father and self-taught developer. By day I manage the infrastructure of a small IT company;
+at home I run a three-node Proxmox cluster with Ceph and Kubernetes (k3s), managed as code with
+OpenTofu and Ansible.
 
-## I am a husband, father and developer: I'll tell you a little about myself
+### About me
 
-- I was born in Schorndorf in Germany, but my home is near Naples, Italy, even though my origins are on the island of Sardinia where I lived the first 30 years of my life.
+- Born in Schorndorf, Germany. My roots are in Sardinia, where I lived for my first 30 years;
+  today my home is near Naples, Italy.
+- I trained as a surveyor, but my passion for computers took me down another path.
+- For years I taught Autodesk software (design tools for construction, mechanical engineering
+  and more) for an Autodesk partner company.
+- Everything I know about IT I taught myself: I'm curious and I never stop learning.
 
-- I studied to be a surveyor, but in the end my passion for computer science is taking me on another path.
+### Projects
 
-- I worked for years as a teacher for a partner company of Autodesk, a large company that develops and distributes software for construction, mechanics and other design software ...
+- **[poste.io-addons](https://github.com/atsanna/poste.io-addons)**: add-ons for the Poste.io mail server
+  (external POP3/IMAP mailboxes, dark theme for the admin, spam-learning fixes).
+- **[qgis-relation-manager](https://github.com/atsanna/qgis-relation-manager)**: QGIS plugin to export
+  and import the relations of a project.
+- **[codeigniter4-docker](https://github.com/atsanna/codeigniter4-docker)**: Docker image for
+  CodeIgniter 4 development *(archived)*.
+- **[codeigniter4-datatables](https://github.com/atsanna/codeigniter4-datatables)**: DataTables support
+  for CodeIgniter 4 *(archived)*.
 
-- I currently work for a small IT company where I manage the infrastructure.
+### 2026 goals
 
-- As for the world of information technology, I am totally self-taught: I am very curious and I always like to learn new things.
+- Publish more of the tools I build for my own infrastructure.
+- Contribute more to open source projects.
 
-- 2025 Objectives: 
-    - Contribute more to Open Source projects
+### Tools
 
+[![Skills](https://skillicons.dev/icons?i=php,python,javascript,html,css,bash,mysql,postgresql,redis,docker,kubernetes,ansible,linux,git,gitlab,github,vscode&perline=9)](https://skillicons.dev)
 
-### Connect with me:
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)
+![Ceph](https://img.shields.io/badge/Ceph-EF5C55?logo=ceph&logoColor=white)
+![k3s](https://img.shields.io/badge/k3s-FFC61C?logo=k3s&logoColor=black)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?logo=opentofu&logoColor=black)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white)
 
-[<img style="fill: #fff;" align="left" alt="Codeigniter4.it | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://codeigniter4.it)
-[<img style="fill: #fff;" align="left" alt="Antonio Sanna | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sannaantonio/)
-[<img style="fill: #fff;" align="left" alt="Antonio Sanna | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/atsannaantonio/)
-[<img style="fill: #fff;" align="left" alt="Antonio Sanna | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/geom.antonio.sanna/)
+### Connect with me
 
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/atsanna)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/atsanna)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://github.com/atsanna)
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/atsanna)
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://github.com/atsanna)
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://github.com/atsanna)
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://github.com/atsanna)
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://github.com/atsanna)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/atsanna)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/atsanna)
-
-<br />
+[![Website](https://img.shields.io/badge/antoniosanna.dev-222?logo=googlechrome&logoColor=white)](https://antoniosanna.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)](https://www.linkedin.com/in/sannaantonio/)
 
 ---
 
-### Recent GitHub Activity
+### Recent GitHub activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#409](https://github.com/aaddrick/claude-desktop-debian/issues/409#issuecomment-4263954993) in [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian)
@@ -57,12 +61,4 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=atsanna&show_icons=true&hide_border=true)](https://github-readme-stats.vercel.app/api?username=atsanna&show_icons=true&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atsanna)](https://github-readme-stats.vercel.app/api/top-langs/?username=atsanna)
-
----
-
-### Thanksgiving
-
-Thanks to [codeSTACKr](https://www.youtube.com/watch?v=ECuqb5Tv9qI) for making a video explaining how to build this page
+<sub>Credits: [codeSTACKr](https://www.youtube.com/watch?v=ECuqb5Tv9qI) for the video that showed me how to build this page.</sub>
