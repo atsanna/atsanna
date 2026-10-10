@@ -52,7 +52,7 @@ OpenTofu and Ansible.
 ### Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#409](https://github.com/aaddrick/claude-desktop-debian/issues/409#issuecomment-4263954993) in [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian)
+1. 🚀 Published release [1.0.0](https://github.com/atsanna/poste.io-addons/releases/tag/v1.0.0) in [atsanna/poste.io-addons](https://github.com/atsanna/poste.io-addons)
 2. 🚀 Published release [QGIS Relation Manager Plugin 1.0](https://github.com/atsanna/qgis-relation-manager/releases/tag/1.0.0) in [atsanna/qgis-relation-manager](https://github.com/atsanna/qgis-relation-manager)
 3. 🚀 Published release [QGIS Relation Manager Plugin 1.0](https://github.com/atsanna/qgis-relation-manager/releases/tag/1.0.0) in [atsanna/qgis-relation-manager](https://github.com/atsanna/qgis-relation-manager)
 4. 🚀 Published release [QGIS Relation Manager Plugin 1.0](https://github.com/atsanna/qgis-relation-manager/releases/tag/1.0.0) in [atsanna/qgis-relation-manager](https://github.com/atsanna/qgis-relation-manager)
