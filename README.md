@@ -53,8 +53,8 @@ OpenTofu and Ansible.
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [BIMopen 0.1.0-alpha.4 (test build)](https://github.com/atsanna/bimopen-site/releases/tag/v0.1.0-alpha.4) in [atsanna/bimopen-site](https://github.com/atsanna/bimopen-site)
-2. 🚀 Published release [BIMopen 0.1.0-alpha.2 (test build)](https://github.com/atsanna/bimopen-site/releases/tag/v0.1.0-alpha.2) in [atsanna/bimopen-site](https://github.com/atsanna/bimopen-site)
-3. 🚀 Published release [BIMopen 0.1.0-alpha.1 (test build)](https://github.com/atsanna/bimopen-site/releases/tag/v0.1.0-alpha.1) in [atsanna/bimopen-site](https://github.com/atsanna/bimopen-site)
+2. 🚀 Published release [1.2.0](https://github.com/atsanna/poste.io-addons/releases/tag/v1.2.0) in [atsanna/poste.io-addons](https://github.com/atsanna/poste.io-addons)
+3. 🚀 Published release [1.1.0](https://github.com/atsanna/poste.io-addons/releases/tag/v1.1.0) in [atsanna/poste.io-addons](https://github.com/atsanna/poste.io-addons)
 4. 🚀 Published release [QGIS Relation Manager Plugin 1.0](https://github.com/atsanna/qgis-relation-manager/releases/tag/1.0.0) in [atsanna/qgis-relation-manager](https://github.com/atsanna/qgis-relation-manager)
 5. 🚀 Published release [1.0.0](https://github.com/atsanna/qgis-relation-manager/releases/tag/1.0.0) in [atsanna/qgis-relation-manager](https://github.com/atsanna/qgis-relation-manager)
 <!--END_SECTION:activity-->
