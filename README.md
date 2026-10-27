@@ -52,11 +52,11 @@ OpenTofu and Ansible.
 ### Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.0.0 — Poste.io 2.5.20](https://github.com/atsanna/poste.io-addons/releases/tag/v2.0.0) in [atsanna/poste.io-addons](https://github.com/atsanna/poste.io-addons)
-2. 🚀 Published release [BIMopen 0.1.0-alpha.5 (test build)](https://github.com/atsanna/bimopen-site/releases/tag/v0.1.0-alpha.5) in [atsanna/bimopen-site](https://github.com/atsanna/bimopen-site)
-3. 🚀 Published release [1.2.0](https://github.com/atsanna/poste.io-addons/releases/tag/v1.2.0) in [atsanna/poste.io-addons](https://github.com/atsanna/poste.io-addons)
-4. 🚀 Published release [1.1.0](https://github.com/atsanna/poste.io-addons/releases/tag/v1.1.0) in [atsanna/poste.io-addons](https://github.com/atsanna/poste.io-addons)
-5. 🚀 Published release [1.0.0](https://github.com/atsanna/poste.io-addons/releases/tag/v1.0.0) in [atsanna/poste.io-addons](https://github.com/atsanna/poste.io-addons)
+1. 🚀 Published release [BIMopen 0.1.0-alpha.6 (test build)](https://github.com/atsanna/bimopen-site/releases/tag/v0.1.0-alpha.6) in [atsanna/bimopen-site](https://github.com/atsanna/bimopen-site)
+2. 🚀 Published release [2.0.0 — Poste.io 2.5.20](https://github.com/atsanna/poste.io-addons/releases/tag/v2.0.0) in [atsanna/poste.io-addons](https://github.com/atsanna/poste.io-addons)
+3. 🚀 Published release [BIMopen 0.1.0-alpha.5 (test build)](https://github.com/atsanna/bimopen-site/releases/tag/v0.1.0-alpha.5) in [atsanna/bimopen-site](https://github.com/atsanna/bimopen-site)
+4. 🚀 Published release [1.2.0](https://github.com/atsanna/poste.io-addons/releases/tag/v1.2.0) in [atsanna/poste.io-addons](https://github.com/atsanna/poste.io-addons)
+5. 🚀 Published release [1.1.0](https://github.com/atsanna/poste.io-addons/releases/tag/v1.1.0) in [atsanna/poste.io-addons](https://github.com/atsanna/poste.io-addons)
 <!--END_SECTION:activity-->
 
 ---
