@@ -52,11 +52,11 @@ OpenTofu and Ansible.
 ### Recent GitHub activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Mergin Maps Mobile 2026.5.0 – prova Android](https://github.com/atsanna/MerginMapsMobile/releases/tag/v2026.5.0-test.1) in [atsanna/MerginMapsMobile](https://github.com/atsanna/MerginMapsMobile)
-2. 🚀 Published release [BIMopen 0.1.0-alpha.7 (test build)](https://github.com/atsanna/bimopen-site/releases/tag/v0.1.0-alpha.7) in [atsanna/bimopen-site](https://github.com/atsanna/bimopen-site)
-3. 🚀 Published release [2.0.0 — Poste.io 2.5.20](https://github.com/atsanna/poste.io-addons/releases/tag/v2.0.0) in [atsanna/poste.io-addons](https://github.com/atsanna/poste.io-addons)
-4. 🚀 Published release [1.2.0](https://github.com/atsanna/poste.io-addons/releases/tag/v1.2.0) in [atsanna/poste.io-addons](https://github.com/atsanna/poste.io-addons)
-5. 🚀 Published release [1.1.0](https://github.com/atsanna/poste.io-addons/releases/tag/v1.1.0) in [atsanna/poste.io-addons](https://github.com/atsanna/poste.io-addons)
+1. 🚀 Published release [2.0.1 — Poste.io 2.5.21](https://github.com/atsanna/poste.io-addons/releases/tag/v2.0.1) in [atsanna/poste.io-addons](https://github.com/atsanna/poste.io-addons)
+2. 🚀 Published release [Mergin Maps Mobile 2026.5.0 – prova Android](https://github.com/atsanna/MerginMapsMobile/releases/tag/v2026.5.0-test.1) in [atsanna/MerginMapsMobile](https://github.com/atsanna/MerginMapsMobile)
+3. 🚀 Published release [BIMopen 0.1.0-alpha.7 (test build)](https://github.com/atsanna/bimopen-site/releases/tag/v0.1.0-alpha.7) in [atsanna/bimopen-site](https://github.com/atsanna/bimopen-site)
+4. 🚀 Published release [2.0.0 — Poste.io 2.5.20](https://github.com/atsanna/poste.io-addons/releases/tag/v2.0.0) in [atsanna/poste.io-addons](https://github.com/atsanna/poste.io-addons)
+5. 🚀 Published release [1.2.0](https://github.com/atsanna/poste.io-addons/releases/tag/v1.2.0) in [atsanna/poste.io-addons](https://github.com/atsanna/poste.io-addons)
 <!--END_SECTION:activity-->
 
 ---
